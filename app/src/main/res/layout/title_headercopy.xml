@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+
+
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="50dp"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+
+    >
+
+    <RelativeLayout
+
+        android:background="@color/headertitle"
+        android:id="@+id/header"
+        android:layout_centerInParent="true"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+
+        <ImageView
+
+            android:layout_centerInParent="true"
+            android:id="@+id/iv_logout"
+            android:padding="5dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="10dp"
+            android:src="@drawable/icon"
+            android:visibility="gone"
+            />
+
+    </RelativeLayout>
+    <RelativeLayout
+        android:visibility="visible"
+        android:layout_centerInParent="true"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <ProgressBar
+            android:layout_centerInParent="true"
+            android:id="@+id/progressBar2"
+            style="?android:attr/progressBarStyleHorizontal"
+            android:layout_width="45dp"
+            android:layout_height="45dp"
+            android:indeterminate="false"
+            android:max="100"
+            android:progress="0"
+            android:progressDrawable="@drawable/progree_green"
+            android:secondaryProgress="100" />
+
+        <LinearLayout
+            android:layout_centerInParent="true"
+            android:orientation="vertical"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+            <View
+                android:layout_centerInParent="true"
+                android:layout_width="15dp"
+                android:background="@drawable/innerprogress"
+                android:layout_height="3.3dp"></View>
+            <View
+                android:layout_marginTop="4dp"
+                android:layout_centerInParent="true"
+                android:layout_width="15dp"
+                android:background="@drawable/innerprogress"
+                android:layout_height="3.3dp"></View>
+        </LinearLayout>
+
+        <ImageView
+            android:visibility="gone"
+            android:layout_centerInParent="true"
+            android:layout_width="10dp"
+            android:layout_height="10dp"
+            android:src="@drawable/inner"/>
+
+    </RelativeLayout>
+
+</RelativeLayout>

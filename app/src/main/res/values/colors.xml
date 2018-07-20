@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+    <color name="black_transaprent">#30000000</color>
+    <color name="theme_grey">#FAFAFA</color>
+    <color name="view_color">#d4d4d4</color>
+    <color name="main_bg">#ebebeb</color>
+    <color name="green">#168924</color>
+    <color name="red">#ff0000</color>
+    <color name="colorPrimary">#7CB43A</color>
+    <color name="colorPrimaryDark">#7CB43A</color>
+    <color name="colorAccent">#7CB43A</color>
+    <color name="colorAccentlighr">#407CB43A</color>
+    <color name="headerColor">#7CB43A</color>
+    <color name="pink">#f34056</color>
+    <color name="lightgrey">#d4d2d2</color>
+    <color name="drawerbg">#f2f1f1</color>
+    <color name="grey">#949393</color>
+    <color name="textdarkgrey">#504f4f</color>
+    <color name="lightGreen">#53b386</color>
+    <color name="active_blue">#373151</color>
+    <color name="bottom_tab_bg">#D1D1D1</color>
+    <color name="headertitle">#565656</color>
+
+    <!--Begin Screen-->
+    <color name="txtColour">#010000</color>
+
+    <color name="black_transparent">#60000000</color>
+    <!--<color name="main_background_color">#b5e1f4</color>-->
+    <color name="bg_splash">#b5e1f4</color>
+
+    <color name="header_color">#3C2F26</color>
+    <color name="transperentBlue">#9965a1ff</color>
+    <color name="normal_button_text_color_theme">#df4914</color>
+    <color name="slider_fill_color">#F1F0EB</color>
+    <color name="slider_normal">#EAEAE7</color>
+    <color name="row_bgcolor">#C2E6DA</color>
+    <color name="selector_txt_color_normal">#3f3f3f</color>
+    <color name="list_txt_clr">#3f3f3f</color>
+
+    <color name="drawer_txt_color">#252525</color>
+    <color name="divider_color">#85a89c</color>
+    <color name="drawer_bg">#c1e6d9</color>
+    <color name="theme_text_bgcolor">#C1E7DA</color>
+    <color name="transparent_theme_text_bgcolor">#bbC1E7DA</color>
+    <color name="photobookdock_btn_bg">#A4A4A4</color>
+    <color name="persionalized_dock_lblcolor">#6B6B6B</color>
+    <color name="persionalized_dock_bg">#F1F1F1</color>
+    <color name="viewbg">#696969</color>
+    <color name="orange">#f8830f</color>
+    <color name="yes">#7fc243</color>
+
+    <color name="no">#e36464</color>
+    <color name="default_text">#949599</color>
+    <color name="yes_text">#D4F1B7</color>
+    <color name="no_text">#F6BEBD</color>
+
+    <color name="themetext">#939393</color>
+
+    <color name="colorfirst">#74b427</color>
+    <color name="colorsecond">#ffae00</color>
+    <color name="colorthird">#c12602</color>
+    <color name="colorfourth">#ce2a83</color>
+    <color name="colorfifth">#7f00d0</color>
+    <color name="colorsix">#3424b1</color>
+    <color name="colorseven">#0074c5</color>
+    <color name="coloreight">#28c8c2</color>
+
+    <color name="colorning">#ffea00</color>
+    <color name="colorten">#bad138</color>
+    <color name="colorelevan">#b7b7b7</color>
+    <color name="colortwelve">#434343</color>
+
+
+
+</resources>
